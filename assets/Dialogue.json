@@ -1,0 +1,32 @@
+[
+	{
+		"title": "Start",
+		"tags": "",
+		"body": "Jill: Hi Jack. How are you?\nJack: I'm fine. How are you?\nJill: Would you like an appple?\n[[ Yes please!: |Yes]]\n[[ No thanks: |No]]",
+		"position": {
+			"x": 217,
+			"y": -55
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Yes",
+		"tags": "",
+		"body": "Jill: Great. Here it is",
+		"position": {
+			"x": 64,
+			"y": 252
+		},
+		"colorID": 0
+	},
+	{
+		"title": "No",
+		"tags": "",
+		"body": "Jill: How about some cake instead",
+		"position": {
+			"x": 452,
+			"y": 259
+		},
+		"colorID": 0
+	}
+]

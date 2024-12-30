@@ -1,0 +1,82 @@
+[
+	{
+		"title": "Start",
+		"tags": "",
+		"body": "Tien: Hi! Welcome to this world\nTien: Pretty dark hah?\nTien: You can move around with W A S D\nTien: You can dash by pressing Shift but it has cool-down time\nTien: Here, you have to find the small Yellow coins right there",
+		"position": {
+			"x": 19,
+			"y": -90
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Enemies2",
+		"tags": "",
+		"body": "Tien: Oh no! There is another one!",
+		"position": {
+			"x": 281,
+			"y": 139
+		},
+		"colorID": 0
+	},
+	{
+		"title": "After seeing",
+		"tags": "",
+		"body": "Tien: Well, go catch it\nTien: Catching one will give you score",
+		"position": {
+			"x": 273,
+			"y": -81
+		},
+		"colorID": 0
+	},
+	{
+		"title": "After catching",
+		"tags": "",
+		"body": "Tien: Oh no, there are the Red enemies\nTien: Try not to stand in the direction that have been warning\nTien: You only have 3 life in total\nTien: Hitting enemies will cost you one",
+		"position": {
+			"x": 5,
+			"y": 135
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Enemies3",
+		"tags": "",
+		"body": "Tien: And ... there is another one!",
+		"position": {
+			"x": 549,
+			"y": 140
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Enemies4",
+		"tags": "",
+		"body": "Tien: These enemies have the red circle around, try not to hit it",
+		"position": {
+			"x": 792,
+			"y": 139
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Enemies5",
+		"tags": "",
+		"body": "Tien: Great! Let's have fun",
+		"position": {
+			"x": 549,
+			"y": 400
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Enemies6",
+		"tags": "",
+		"body": "Tien: HaHa! Sorry about that\nTien: Now let's play",
+		"position": {
+			"x": 830,
+			"y": 388
+		},
+		"colorID": 0
+	}
+]
